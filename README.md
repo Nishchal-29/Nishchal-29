@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchal-29&label=Profile%20views&color=0e75b6&style=flat" alt="nishchal-29" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Quantitative Finance**
+- 🌱 I’m currently learning **ML, DL, Generative and Agentic AI**
 
 - 📫 Reach me on **nishchalsingh9a@gmail.com**
 
